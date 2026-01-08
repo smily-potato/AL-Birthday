@@ -8094,6 +8094,13 @@
 				"custom_icon": "custom_images/icons/Robert_E_Peary_icon.png",
 				"custom_image": "custom_images/paintings/Robert_E_Peary.png"
 			}
+		},
+		{
+			"codename": "IJN_Fujinami",
+			"name_ja": "藤波",
+			"launch_date": "1943-04-20",
+			"launch_reason": "",
+			"notes": ""
 		}
 	],
 	"last_updated": "2026-01-06T10:30:00Z",
@@ -8103,4 +8110,3 @@
 		"image_base_url": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/"
 	}
 }
-
