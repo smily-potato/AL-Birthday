@@ -8100,7 +8100,12 @@
 			"name_ja": "藤波",
 			"launch_date": "1943-04-20",
 			"launch_reason": "",
-			"notes": ""
+			"notes": "",
+			"painting_display": {
+				"scale": 0.5,
+				"offset_x": 0,
+				"offset_y": 0
+			}
 		}
 	],
 	"last_updated": "2026-01-12T10:30:00Z",
@@ -8110,6 +8115,7 @@
 		"image_base_url": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/"
 	}
 }
+
 
 
 
