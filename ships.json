@@ -8102,9 +8102,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 0.5,
-				"offset_x": 0,
-				"offset_y": 0
+				"scale": 4.1,
+				"offset_x": -45,
+				"offset_y": 57
 			}
 		}
 	],
@@ -8115,6 +8115,7 @@
 		"image_base_url": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/"
 	}
 }
+
 
 
 
