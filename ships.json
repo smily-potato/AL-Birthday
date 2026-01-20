@@ -3908,6 +3908,18 @@
 			}
 		},
 		{
+			"codename": "IJN Fujinami",
+			"name_ja": "藤波",
+			"launch_date": "1943-04-20",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 4.1,
+				"offset_x": -45,
+				"offset_y": 57
+			}
+		},
+		{
 			"codename": "IJN Yūbari",
 			"name_ja": "夕張",
 			"launch_date": "1923-03-05",
@@ -6398,6 +6410,18 @@
 			}
 		},
 		{
+			"codename": "RN Ugolino Vivaldi",
+			"name_ja": "ウゴリーノ・\nヴィヴァルディ",
+			"launch_date": "1929-01-09",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
 			"codename": "RN Duca degli Abruzzi",
 			"name_ja": "ドゥーカ・デッリ・\nアブルッツィ",
 			"launch_date": "1936-04-21",
@@ -6431,6 +6455,18 @@
 				"scale": 3.8,
 				"offset_x": -9,
 				"offset_y": -67
+			}
+		},
+		{
+			"codename": "RN Alberto di Giussano",
+			"name_ja": "アルベルト・ディ・ジュッサーノ",
+			"launch_date": "1930-04-27",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
 			}
 		},
 		{
@@ -6582,6 +6618,18 @@
 			"name_ja": "ラファエロ",
 			"launch_date": null,
 			"launch_reason": "未起工",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "RN Francesco Caracciolo",
+			"name_ja": "フランチェスコ・\nカラッチョロ",
+			"launch_date": "1920-05-12",
+			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
 				"scale": 1.0,
@@ -8094,18 +8142,6 @@
 				"custom_icon": "custom_images/icons/Robert_E_Peary_icon.png",
 				"custom_image": "custom_images/paintings/Robert_E_Peary.png"
 			}
-		},
-		{
-			"codename": "IJN Fujinami",
-			"name_ja": "藤波",
-			"launch_date": "1943-04-20",
-			"launch_reason": "",
-			"notes": "",
-			"painting_display": {
-				"scale": 4.1,
-				"offset_x": -45,
-				"offset_y": 57
-			}
 		}
 	],
 	"last_updated": "2026-01-12T10:30:00Z",
@@ -8115,8 +8151,3 @@
 		"image_base_url": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/"
 	}
 }
-
-
-
-
-
