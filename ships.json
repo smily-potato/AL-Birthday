@@ -6459,7 +6459,7 @@
 		},
 		{
 			"codename": "RN Alberto di Giussano",
-			"name_ja": "アルベルト・ディ・ジュッサーノ",
+			"name_ja": "アルベルト・ディ・\nジュッサーノ",
 			"launch_date": "1930-04-27",
 			"launch_reason": "",
 			"notes": "",
@@ -8144,7 +8144,7 @@
 			}
 		}
 	],
-	"last_updated": "2026-01-12T10:30:00Z",
+	"last_updated": "2026-01-20T10:30:00Z",
 	"data_source": {
 		"repository": "Fernando2603/AzurLane",
 		"ship_data_url": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/ship.json",
