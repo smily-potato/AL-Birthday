@@ -6216,10 +6216,34 @@
 			}
 		},
 		{
+			"codename": "Hai Chou",
+			"name_ja": "海籌",
+			"launch_date": null,
+			"launch_reason": "未起工",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
 			"codename": "Chien Wu",
 			"name_ja": "建武",
 			"launch_date": null,
 			"launch_reason": "建造中止",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "Chang Wu",
+			"name_ja": "彰武",
+			"launch_date": null,
+			"launch_reason": "未起工",
 			"notes": "",
 			"painting_display": {
 				"scale": 1.0,
@@ -6854,6 +6878,18 @@
 			}
 		},
 		{
+			"codename": "SN Ozorny",
+			"name_ja": "オゾルノイ",
+			"launch_date": "1940-12-25",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 2.5,
+				"offset_x": 20,
+				"offset_y": 120
+			}
+		},
+		{
 			"codename": "SN Avrora",
 			"name_ja": "アヴローラ",
 			"launch_date": "1900-05-24",
@@ -6939,7 +6975,7 @@
 		},
 		{
 			"codename": "SN Oleg",
-			"name_ja": "オレーグ",
+			"name_ja": "オレグ",
 			"launch_date": "1903-08-14",
 			"launch_reason": "",
 			"notes": "",
@@ -6947,6 +6983,30 @@
 				"scale": 1.9,
 				"offset_x": 3,
 				"offset_y": 157
+			}
+		},
+		{
+			"codename": "SN Bogatyr",
+			"name_ja": "ボガティーリ",
+			"launch_date": "1901-07-30",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.9,
+				"offset_x": 3,
+				"offset_y": 157
+			}
+		},
+		{
+			"codename": "SN Krasny Kavkaz",
+			"name_ja": "クラースヌイ・カフカース",
+			"launch_date": null,
+			"launch_reason": "1916-06-21",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
 			}
 		},
 		{
@@ -6964,6 +7024,18 @@
 		{
 			"codename": "SN Kursk",
 			"name_ja": "クルスク",
+			"launch_date": null,
+			"launch_reason": "未起工",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "SN Moskva",
+			"name_ja": "モスクワ",
 			"launch_date": null,
 			"launch_reason": "未起工",
 			"notes": "",
