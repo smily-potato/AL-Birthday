@@ -8214,6 +8214,20 @@
 				"custom_icon": "custom_images/icons/Robert_E_Peary_icon.png",
 				"custom_image": "custom_images/paintings/Robert_E_Peary.png"
 			}
+		},
+		{
+			"codename": "RMS Empress of Britain",
+			"name_ja": "ブリテン",
+			"launch_date": "1930-06-11",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 0.5,
+				"offset_x": 0,
+				"offset_y": 0,
+				"custom_icon": "custom_images/icons/Empress_of_Britain_icon.png",
+				"custom_image": "custom_images/paintings/Empress_of_Britain.png"
+			}
 		}
 	],
 	"last_updated": "2026-01-20T10:30:00Z",
