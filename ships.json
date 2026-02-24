@@ -6987,7 +6987,7 @@
 		},
 		{
 			"codename": "SN Bogatyr",
-			"name_ja": "ボガティーリ",
+			"name_ja": "ボガトィーリ",
 			"launch_date": "1901-07-30",
 			"launch_reason": "",
 			"notes": "",
@@ -7000,8 +7000,8 @@
 		{
 			"codename": "SN Krasny Kavkaz",
 			"name_ja": "クラースヌイ・カフカース",
-			"launch_date": null,
-			"launch_reason": "1916-06-21",
+			"launch_date": "1916-06-21",
+			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
 				"scale": 1.0,
