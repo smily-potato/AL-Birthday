@@ -6392,9 +6392,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.8,
-				"offset_x": -31,
-				"offset_y": 152
+				"scale": 1.7,
+				"offset_x": -34,
+				"offset_y": 138
 			}
 		},
 		{
@@ -6440,9 +6440,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.0,
-				"offset_x": 0,
-				"offset_y": 0
+				"scale": 3.1,
+				"offset_x": -25,
+				"offset_y": -5
 			}
 		},
 		{
@@ -6488,9 +6488,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.0,
-				"offset_x": 0,
-				"offset_y": 0
+				"scale": 4.4,
+				"offset_x": 23,
+				"offset_y": 21
 			}
 		},
 		{
@@ -6512,9 +6512,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.9,
-				"offset_x": 2,
-				"offset_y": 183
+				"scale": 1.7,
+				"offset_x": -1,
+				"offset_y": 155
 			}
 		},
 		{
@@ -6656,9 +6656,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.0,
-				"offset_x": 0,
-				"offset_y": 0
+				"scale": 5.8,
+				"offset_x": 28,
+				"offset_y": 74
 			}
 		},
 		{
@@ -6884,9 +6884,9 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 2.5,
-				"offset_x": 20,
-				"offset_y": 120
+				"scale": 3.9,
+				"offset_x": 33,
+				"offset_y": 98
 			}
 		},
 		{
@@ -6992,21 +6992,21 @@
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.9,
-				"offset_x": 3,
-				"offset_y": 157
+				"scale": 4.1,
+				"offset_x": 131,
+				"offset_y": 39
 			}
 		},
 		{
 			"codename": "SN Krasny Kavkaz",
-			"name_ja": "クラースヌイ・カフカース",
+			"name_ja": "クラースヌイ・\nカフカース",
 			"launch_date": "1916-06-21",
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
-				"scale": 1.0,
-				"offset_x": 0,
-				"offset_y": 0
+				"scale": 4.8,
+				"offset_x": -9,
+				"offset_y": 16
 			}
 		},
 		{
