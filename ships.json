@@ -2406,8 +2406,8 @@
 		},
 		{
 			"codename": "HMS Curacoa",
-			"name_ja": "カーリュー",
-			"launch_date": "1917-07-05",
+			"name_ja": "キュラソー",
+			"launch_date": "1917-05-05",
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
@@ -2418,8 +2418,8 @@
 		},
 		{
 			"codename": "HMS Curlew",
-			"name_ja": "キュラソー",
-			"launch_date": "1917-05-05",
+			"name_ja": "カーリュー",
+			"launch_date": "1917-07-05",
 			"launch_reason": "",
 			"notes": "",
 			"painting_display": {
@@ -4136,6 +4136,30 @@
 			}
 		},
 		{
+			"codename": "IJN Kizu",
+			"name_ja": "木津",
+			"launch_date": null,
+			"launch_reason": "未起工",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "IJN Nayoro",
+			"name_ja": "名寄",
+			"launch_date": null,
+			"launch_reason": "未起工",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
 			"codename": "IJN Furutaka",
 			"name_ja": "古鷹",
 			"launch_date": "1925-02-25",
@@ -4781,6 +4805,18 @@
 				"scale": 1.0,
 				"offset_x": 0,
 				"offset_y": 0
+			}
+		},
+		{
+			"codename": "IJN Unryuu",
+			"name_ja": "雲龍",
+			"launch_date": "1943-09-25",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.8,
+				"offset_x": 0,
+				"offset_y": 120
 			}
 		},
 		{
