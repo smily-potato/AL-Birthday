@@ -8264,6 +8264,20 @@
 				"custom_icon": "custom_images/icons/Empress_of_Britain_icon.png",
 				"custom_image": "custom_images/paintings/Empress_of_Britain.png"
 			}
+		},
+		{
+			"codename": "SS Andrew G. Curtin",
+			"name_ja": "キャティン",
+			"launch_date": "1942-01-18",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 0.5,
+				"offset_x": 0,
+				"offset_y": 0,
+				"custom_icon": "custom_images/icons/Andrew_G_Curtin_icon.png",
+				"custom_image": "custom_images/paintings/Andrew_G_Curtin.png"
+			}
 		}
 	],
 	"last_updated": "2026-01-20T10:30:00Z",
