@@ -5289,6 +5289,30 @@
 			}
 		},
 		{
+			"codename": "KMS Friedrich Ihn",
+			"name_ja": "Z14 フリードリヒ・イーン",
+			"launch_date": "1935-11-05",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "KMS Erich Steinbrinck",
+			"name_ja": "Z15 エーリッヒ・\nシュタインブリンク",
+			"launch_date": "1936-09-24",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
 			"codename": "KMS Königsberg",
 			"name_ja": "ケーニヒスベルク",
 			"launch_date": "1927-03-26",
@@ -5546,6 +5570,18 @@
 		{
 			"codename": "KMS Ägir",
 			"name_ja": "エーギル",
+			"launch_date": null,
+			"launch_reason": "未起工",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "KMS Prinz Moritz",
+			"name_ja": "プリンツ・モーリッツ",
 			"launch_date": null,
 			"launch_reason": "未起工",
 			"notes": "",
@@ -5940,6 +5976,18 @@
 			}
 		},
 		{
+			"codename": "KMS U-2501",
+			"name_ja": "U-2501",
+			"launch_date": "1944-05-12",
+			"launch_reason": "",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
 			"codename": "KMS Friedrich der Große",
 			"name_ja": "フリードリヒ・デア・グローセ",
 			"launch_date": null,
@@ -6028,6 +6076,18 @@
 			"name_ja": "メークレンブルク",
 			"launch_date": null,
 			"launch_reason": "?",
+			"notes": "",
+			"painting_display": {
+				"scale": 1.0,
+				"offset_x": 0,
+				"offset_y": 0
+			}
+		},
+		{
+			"codename": "KMS Göts von Berlichingen",
+			"name_ja": "ゲッツ・フォン・ベルリヒンゲン",
+			"launch_date": null,
+			"launch_reason": "未起工",
 			"notes": "",
 			"painting_display": {
 				"scale": 1.0,
