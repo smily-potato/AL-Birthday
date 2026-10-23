@@ -2957,7 +2957,7 @@
     },
     {
       "codename": "HMS Prince of Wales",
-      "name_ja": "プリンス・オブ\n・ウェールズ",
+      "name_ja": "プリンス・オブ・\nウェールズ",
       "launch_date": "1939-05-03",
       "launch_reason": "",
       "notes": "",
@@ -8657,11 +8657,11 @@
   "alphabet_name": [
     {
       "codename": "SS Brigadier General Clinton W. Russell",
-      "display_name": "SS Brigadier General\n Clinton W. Russell"
+      "display_name": "SS Brigadier General \nClinton W. Russell"
     },
     {
       "codename": "HNLMS De Zeven Provinciën",
-      "display_name": "HNLMS De Zeven\n Provinciën"
+      "display_name": "HNLMS De Zeven \nProvinciën"
     }
   ],
   "last_updated": "2026-01-20T10:30:00Z",
