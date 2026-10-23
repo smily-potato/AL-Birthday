@@ -8636,9 +8636,9 @@
 		{
 			"codename": "Valparaíso",
 			"name_ja": "バルパライソ",
-			"launch_date": null,
-			"launch_reason": "未起工",
-			"notes": "",
+			"launch_date": "1944-11-30",
+			"launch_reason": "",
+			"notes": "ヴァンガードをチリへ売却した架空設定に基づき、HMS Vanguardの進水日1944年11月30日を採用。バルパライソ自体の史実の進水日ではない。",
 			"painting_display": {
 				"scale": 1.0,
 				"offset_x": 0,
