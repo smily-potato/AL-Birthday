@@ -8528,7 +8528,7 @@
       }
     },
     {
-      "codename": "SS Brigadier General\n Clinton W. Russell",
+      "codename": "SS Brigadier General Clinton W. Russell",
       "name_ja": "ラッセル",
       "launch_date": "1944-05-16",
       "launch_reason": "",
@@ -8652,6 +8652,16 @@
         "custom_icon": "custom_images/icons/Andrew_G_Curtin_icon.png",
         "custom_image": "custom_images/paintings/Andrew_G_Curtin.png"
       }
+    }
+  ],
+  "alphabet_name": [
+    {
+      "codename": "SS Brigadier General Clinton W. Russell",
+      "display_name": "SS Brigadier General\n Clinton W. Russell"
+    },
+    {
+      "codename": "HNLMS De Zeven Provinciën",
+      "display_name": "HNLMS De Zeven\n Provinciën",
     }
   ],
   "last_updated": "2026-01-20T10:30:00Z",
