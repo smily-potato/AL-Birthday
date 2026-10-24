@@ -8388,7 +8388,8 @@
       "painting_display": {
         "scale": 5.1,
         "offset_x": -55,
-        "offset_y": 84
+        "offset_y": 84,
+        "custom_image": "custom_images/paintings/Pearl.png"
       }
     },
     {
