@@ -587,9 +587,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 2.4,
+        "offset_x": 36,
+        "offset_y": 115,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101560/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101560/painting.png"
       }
@@ -601,9 +601,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 2.4,
+        "offset_x": 8,
+        "offset_y": 134,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101570/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101570/painting.png"
       }
@@ -615,9 +615,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 2.2,
+        "offset_x": -3,
+        "offset_y": 139,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101580/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/101580/painting.png"
       }
@@ -954,9 +954,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 4.7,
+        "offset_x": -4,
+        "offset_y": 69,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102360/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/102360/painting.png"
       }
@@ -1640,9 +1640,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 4.8,
+        "offset_x": -118,
+        "offset_y": 62,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107200/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/107200/painting.png"
       }
@@ -2062,9 +2062,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 2.4,
+        "offset_x": 15,
+        "offset_y": 29,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201150/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201150/painting.png"
       }
@@ -2088,9 +2088,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 2.6,
+        "offset_x": -7,
+        "offset_y": 155,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201190/painting.png"
       }
@@ -2306,9 +2306,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 3.8,
+        "offset_x": -38,
+        "offset_y": 222,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/201400/painting.png"
       }
@@ -2692,9 +2692,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 4.4,
+        "offset_x": -17,
+        "offset_y": 82,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202370/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202370/painting.png"
       }
@@ -2706,9 +2706,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 5.1,
+        "offset_x": 10,
+        "offset_y": 76,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/202380/painting.png"
       }
@@ -3516,9 +3516,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 4.3,
+        "offset_x": -9,
+        "offset_y": 108,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301190/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/301190/painting.png"
       }
@@ -3724,7 +3724,7 @@
       "notes": "",
       "painting_display": {
         "scale": 0.9,
-        "offset_x": -11,
+        "offset_x": -4,
         "offset_y": 99
       }
     },
@@ -5132,9 +5132,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 3.5,
+        "offset_x": 36,
+        "offset_y": 216,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/317030/painting.png"
       }
@@ -5521,9 +5521,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 1.5,
+        "offset_x": -30,
+        "offset_y": 59
       }
     },
     {
@@ -5533,9 +5533,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 3.2,
+        "offset_x": 26,
+        "offset_y": 28
       }
     },
     {
@@ -6208,9 +6208,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 7.1,
+        "offset_x": -4,
+        "offset_y": 157,
         "custom_image": "custom_images/paintings/U-2501.png"
       }
     },
@@ -6560,9 +6560,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 4.5,
+        "offset_x": 9,
+        "offset_y": 78
       }
     },
     {
@@ -6620,9 +6620,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 2.0,
+        "offset_x": 1,
+        "offset_y": 123
       }
     },
     {
@@ -6632,9 +6632,9 @@
       "launch_reason": "",
       "notes": "船番388 TRIUMPHの1903年7月11日を候補として採用。定安との同定や1902年説は未解決。",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 1.8,
+        "offset_x": 42,
+        "offset_y": 129
       }
     },
     {
@@ -7608,9 +7608,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 2.3,
+        "offset_x": 49,
+        "offset_y": 45,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801060/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/801060/painting.png"
       }
@@ -7790,9 +7790,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 1.0,
+        "scale": 4.4,
         "offset_x": 0,
-        "offset_y": 0,
+        "offset_y": 155,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806020/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/806020/painting.png"
       }
@@ -8216,9 +8216,9 @@
       "launch_reason": "",
       "notes": "ヴァンガードをチリへ売却した架空設定に基づき、HMS Vanguardの進水日1944年11月30日を採用。バルパライソ自体の史実の進水日ではない。",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 7.1,
+        "offset_x": -39,
+        "offset_y": -3,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1299010/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/1299010/painting.png"
       }
@@ -8374,9 +8374,9 @@
       "launch_reason": "",
       "notes": "HMS Lyme（1695）を原型候補として採用。英国旧暦1695年4月20日と仮定し4月30日に換算。対応は未確定。",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 5.4,
+        "offset_x": -2,
+        "offset_y": 209
       }
     },
     {
@@ -8386,9 +8386,9 @@
       "launch_reason": "",
       "notes": "HMS Pearl（1708）を原型候補として採用。英国旧暦1708年8月5日と仮定し8月16日に換算。対応は未確定。",
       "painting_display": {
-        "scale": 1.0,
-        "offset_x": 0,
-        "offset_y": 0
+        "scale": 5.1,
+        "offset_x": -55,
+        "offset_y": 84
       }
     },
     {
@@ -8422,9 +8422,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.4,
+        "offset_x": -12,
+        "offset_y": -4,
         "custom_icon": "custom_images/icons/Olympic_icon.png",
         "custom_image": "custom_images/paintings/Olympic.png"
       }
@@ -8436,9 +8436,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.5,
+        "offset_x": 12,
+        "offset_y": -21,
         "custom_icon": "custom_images/icons/Patrick_Henry_icon.png",
         "custom_image": "custom_images/paintings/Patrick_Henry.png"
       }
@@ -8450,9 +8450,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.6,
+        "offset_x": -12,
+        "offset_y": -12,
         "custom_icon": "custom_images/icons/Stephen_Hopkins_icon.png",
         "custom_image": "custom_images/paintings/Stephen_Hopkins.png"
       }
@@ -8464,9 +8464,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.4,
+        "offset_x": 5,
+        "offset_y": -13,
         "custom_icon": "custom_images/icons/Homeric_icon.png",
         "custom_image": "custom_images/paintings/Homeric.png"
       }
@@ -8478,9 +8478,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
+        "scale": 1.4,
         "offset_x": 0,
-        "offset_y": 0,
+        "offset_y": -8,
         "custom_icon": "custom_images/icons/Amerigo_Vespucci_icon.png",
         "custom_image": "custom_images/paintings/Amerigo_Vespucci.png"
       }
@@ -8492,9 +8492,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.6,
+        "offset_x": 8,
+        "offset_y": -19,
         "custom_icon": "custom_images/icons/John_W_Brown_icon.png",
         "custom_image": "custom_images/paintings/John_W_Brown.png"
       }
@@ -8506,9 +8506,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.5,
+        "offset_x": -22,
+        "offset_y": 4,
         "custom_icon": "custom_images/icons/Jeremiah_OBrien_icon.png",
         "custom_image": "custom_images/paintings/Jeremiah_OBrien.png"
       }
@@ -8520,9 +8520,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.5,
+        "offset_x": 16,
+        "offset_y": -24,
         "custom_icon": "custom_images/icons/Am-mer-mar_icon.png",
         "custom_image": "custom_images/paintings/Am-mer-mar.png"
       }
@@ -8534,9 +8534,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 50,
-        "offset_y": 0,
+        "scale": 1.7,
+        "offset_x": 8,
+        "offset_y": -18,
         "custom_icon": "custom_images/icons/Clinton_W_Russell_icon.png",
         "custom_image": "custom_images/paintings/Clinton_W_Russell.png"
       }
@@ -8548,9 +8548,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.4,
+        "offset_x": -2,
+        "offset_y": -5,
         "custom_icon": "custom_images/icons/Queen_Elizabeth_icon.png",
         "custom_image": "custom_images/paintings/Queen_Elizabeth.png"
       }
@@ -8562,9 +8562,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.5,
+        "offset_x": -2,
+        "offset_y": 16,
         "custom_icon": "custom_images/icons/Lusitania_icon.png",
         "custom_image": "custom_images/paintings/Lusitania.png"
       }
@@ -8576,9 +8576,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.4,
+        "offset_x": 18,
+        "offset_y": 3,
         "custom_icon": "custom_images/icons/Bremen_icon.png",
         "custom_image": "custom_images/paintings/Bremen.png"
       }
@@ -8590,9 +8590,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.3,
+        "offset_x": 20,
+        "offset_y": -4,
         "custom_icon": "custom_images/icons/Queen_Mary_icon.png",
         "custom_image": "custom_images/paintings/Queen_Mary.png"
       }
@@ -8604,9 +8604,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.2,
+        "offset_x": 2,
+        "offset_y": 3,
         "custom_icon": "custom_images/icons/Laconia_icon.png",
         "custom_image": "custom_images/paintings/Laconia.png"
       }
@@ -8618,9 +8618,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.9,
+        "offset_x": 3,
+        "offset_y": -18,
         "custom_icon": "custom_images/icons/Robert_E_Peary_icon.png",
         "custom_image": "custom_images/paintings/Robert_E_Peary.png"
       }
@@ -8632,9 +8632,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
+        "scale": 1.8,
         "offset_x": 0,
-        "offset_y": 0,
+        "offset_y": 2,
         "custom_icon": "custom_images/icons/Empress_of_Britain_icon.png",
         "custom_image": "custom_images/paintings/Empress_of_Britain.png"
       }
@@ -8646,9 +8646,9 @@
       "launch_reason": "",
       "notes": "",
       "painting_display": {
-        "scale": 0.5,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 1.3,
+        "offset_x": -5,
+        "offset_y": -5,
         "custom_icon": "custom_images/icons/Andrew_G_Curtin_icon.png",
         "custom_image": "custom_images/paintings/Andrew_G_Curtin.png"
       }
