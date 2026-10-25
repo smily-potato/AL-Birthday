@@ -5,7 +5,7 @@
       "name_ja": "汎用型ブリ",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "限界突破用のゲームキャラクターで、史実の船体・進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -17,7 +17,7 @@
       "name_ja": "試作型ブリMKII",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "限界突破用のゲームキャラクターで、史実の船体・進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -29,7 +29,7 @@
       "name_ja": "特装型ブリMKIII",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "限界突破用のゲームキャラクターで、史実の船体・進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -4323,7 +4323,7 @@
       "name_ja": "木津",
       "launch_date": null,
       "launch_reason": "未起工",
-      "notes": "川内型の未起工計画艦として扱う。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -4335,7 +4335,7 @@
       "name_ja": "名寄",
       "launch_date": null,
       "launch_reason": "未起工",
-      "notes": "川内型の未起工計画艦として扱う。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -4527,7 +4527,7 @@
       "name_ja": "雲仙",
       "launch_date": null,
       "launch_reason": "未起工",
-      "notes": "未起工の計画艦として扱う。具体的な史実設計との対応は未確定。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -4997,7 +4997,7 @@
       "name_ja": "白鳳",
       "launch_date": null,
       "launch_reason": "未起工",
-      "notes": "未起工の計画艦として扱う。G14計画との対応は未確認。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5216,7 +5216,7 @@
       "name_ja": "四万十",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "仮想設計を基にしたゲーム艦で、史実の進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5495,7 +5495,7 @@
       "name_ja": "Z52",
       "launch_date": null,
       "launch_reason": "建造中止",
-      "notes": "1944年6月14日は計画中止日で、進水日ではない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5603,7 +5603,7 @@
       "name_ja": "マクデブルク",
       "launch_date": null,
       "launch_reason": "建造中止(?)",
-      "notes": "M級計画を基にしたゲーム艦。計画は建造中止となり、実際の進水日はない。",
+      "notes": "M級のうちどの艦に該当するか不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5654,7 +5654,7 @@
       "name_ja": "レーゲンスブルク",
       "launch_date": null,
       "launch_reason": "未起工(?)",
-      "notes": "M級計画を基にしたゲーム艦。計画は建造中止となり、実際の進水日はない。",
+      "notes": "M級のうちどの艦に該当するか不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5666,7 +5666,7 @@
       "name_ja": "デュイスブルク",
       "launch_date": null,
       "launch_reason": "未起工(?)",
-      "notes": "M級計画を基にしたゲーム艦。計画は建造中止となり、実際の進水日はない。",
+      "notes": "M級のうちどの艦に該当するか不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5930,7 +5930,7 @@
       "name_ja": "ウルリッヒ・フォン・フッテン",
       "launch_date": null,
       "launch_reason": "建造中止?",
-      "notes": "H39計画を基にしたゲーム艦。史実で起工された2隻も未進水。",
+      "notes": "H39計画のうちどの艦に該当するか不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -5954,7 +5954,7 @@
       "name_ja": "ビスマルクZwei",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "ビスマルクの別形態。元艦の進水日1939年2月14日は継承せず、日付なしとして扱う。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -6291,7 +6291,7 @@
       "name_ja": "ヒンデンブルク",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "計画・仮想設計を基にしたゲーム艦で、史実の進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -6303,7 +6303,7 @@
       "name_ja": "メークレンブルク",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "計画・仮想設計を基にしたゲーム艦で、史実の進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -6388,8 +6388,8 @@
       "codename": "Lung Wu",
       "name_ja": "龍武",
       "launch_date": null,
-      "launch_reason": "計画未実現",
-      "notes": "1913年の中国向けフルカン・シュテッティン1,000トン級駆逐艦計画が原型。ドイツV25級の個艦との対応は未確認。",
+      "launch_reason": "不明?",
+      "notes": "ドイツV25級の個艦との対応は未確認。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -6400,8 +6400,8 @@
       "codename": "Hu Pen",
       "name_ja": "虎賁",
       "launch_date": null,
-      "launch_reason": "計画未実現",
-      "notes": "1913年の中国向けフルカン・シュテッティン1,000トン級駆逐艦計画が原型。ドイツV25級の個艦との対応は未確認。",
+      "launch_reason": "不明?",
+      "notes": "ドイツV25級の個艦との対応は未確認。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -6450,7 +6450,7 @@
       "name_ja": "逸仙",
       "launch_date": "1930-11-12",
       "launch_reason": "",
-      "notes": "民国19年（1930年）11月12日の進水式を採用。1931年5月は竣工。",
+      "notes": "民国19年（1930年）11月12日の進水式を採用。",
       "painting_display": {
         "scale": 1.2,
         "offset_x": 43,
@@ -6534,7 +6534,7 @@
       "name_ja": "済安",
       "launch_date": null,
       "launch_reason": "建造中止",
-      "notes": "資料にある進水月は予定値。実際には未進水のまま建造中止。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -6570,7 +6570,7 @@
       "name_ja": "建武",
       "launch_date": null,
       "launch_reason": "建造中止",
-      "notes": "1915年4月15日は起工日。未進水のまま建造中止。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -7317,7 +7317,7 @@
       "name_ja": "オレグ",
       "launch_date": "1903-08-27",
       "launch_reason": "",
-      "notes": "旧暦1903年8月14日を新暦8月27日に換算。",
+      "notes": "旧暦1903年8月14日に対応する新暦8月27日で表示。",
       "painting_display": {
         "scale": 1.9,
         "offset_x": 3,
@@ -7864,7 +7864,7 @@
       "name_ja": "シャンパーニュ",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "計画・仮想設計を基にしたゲーム艦で、史実の進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -7876,7 +7876,7 @@
       "name_ja": "ブレスト",
       "launch_date": null,
       "launch_reason": "?",
-      "notes": "計画・仮想設計を基にしたゲーム艦で、史実の進水日はない。",
+      "notes": "",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8130,7 +8130,7 @@
       "name_ja": "クレマンソー",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "未成艦。1941年に浮揚した記録があるが、月日および正式進水との区別は不明。",
+      "notes": "未成艦。1941年に浮揚した記録があるが、月日は不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8214,7 +8214,7 @@
       "name_ja": "バルパライソ",
       "launch_date": "1944-11-30",
       "launch_reason": "",
-      "notes": "ヴァンガードをチリへ売却した架空設定に基づき、HMS Vanguardの進水日1944年11月30日を採用。バルパライソ自体の史実の進水日ではない。",
+      "notes": "ヴァンガードをチリへ売却した想定に基づき、同日付を採用。",
       "painting_display": {
         "scale": 7.1,
         "offset_x": -39,
@@ -8252,7 +8252,7 @@
       "name_ja": "ゴールデン・ハインド",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "原船Pelicanの正確な進水月日は不明。1973年進水の復元船とは区別する。",
+      "notes": "原船Pelicanの正確な進水月日は不明。なお1973年復元船が進水している。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8288,7 +8288,7 @@
       "name_ja": "アドヴェンチャー・\nギャレー",
       "launch_date": "1695-12-14",
       "launch_reason": "",
-      "notes": "1695年12月14日頃の候補日。供述の「12月4日頃」を英国旧暦と仮定して換算。正確な日は不明。",
+      "notes": "1695年12月14日頃の候補日を英国旧暦と仮定して換算。正確な日は不明。",
       "painting_display": {
         "scale": 3.8,
         "offset_x": 23,
@@ -8300,7 +8300,7 @@
       "name_ja": "ガンズウェイ",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "正確な進水年月日は不明。1695年の海賊による襲撃日は進水日ではない。",
+      "notes": "正確な進水年月日は不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8312,7 +8312,7 @@
       "name_ja": "ファンシー",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "旧名Charles（Charles II）。正確な進水年月日は不明で、1694年の反乱・改名日とは区別する。",
+      "notes": "旧名Charles（Charles II）。正確な進水年月日は不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8348,7 +8348,7 @@
       "name_ja": "ドルフィン",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "Richard Wantの船とされるが、正確な進水年月日は不明。同名の英国軍艦とは区別する。",
+      "notes": "Richard Wantの船とされるが、正確な進水年月日は不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8360,7 +8360,7 @@
       "name_ja": "クイーン・アンズ・リベンジ",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "建造年・進水日は未確定。1710年建造説は公的研究で確認されていない。",
+      "notes": "建造年・進水日は未確定。1710年建造説がある。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8397,7 +8397,7 @@
       "name_ja": "ロイヤル・ジェームズ",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "BonnetのRevenge改名船が候補。ゲームとの対応と正確な進水年月日は不明。",
+      "notes": "BonnetのRevenge改名船が候補。対応と正確な進水年月日は不明。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8409,7 +8409,7 @@
       "name_ja": "アドベンチャー",
       "launch_date": null,
       "launch_reason": "不明",
-      "notes": "同名船の対応が未確定。捕獲・改名・出航の年月日を進水日には用いない。",
+      "notes": "同名船の対応が未確定。",
       "painting_display": {
         "scale": 1.0,
         "offset_x": 0,
@@ -8477,7 +8477,7 @@
       "name_ja": "アメリゴ",
       "launch_date": "1931-02-22",
       "launch_reason": "",
-      "notes": "",
+      "notes": "現役。2024年には日本にも来ている。",
       "painting_display": {
         "scale": 1.4,
         "offset_x": 0,
@@ -8617,7 +8617,7 @@
       "name_ja": "ピアリ",
       "launch_date": "1942-11-12",
       "launch_reason": "",
-      "notes": "",
+      "notes": "起工からわずか4日15時間29分で進水した記録を持つ",
       "painting_display": {
         "scale": 1.9,
         "offset_x": 3,
