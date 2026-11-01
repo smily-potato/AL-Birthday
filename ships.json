@@ -8421,11 +8421,11 @@
       "name_ja": "メルクーリィ",
       "launch_date": "1820-05-19",
       "launch_reason": "",
-      "notes": "1829年の海戦で知られるブリッグ。ロシア海軍新聞2024年5月24日号pp.13–14の旧暦1820年5月7日／新暦5月19日から新暦を採用。",
+      "notes": "旧暦1820年5月7日に対応する新暦5月19日で表示。",
       "painting_display": {
-        "scale": 1,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 6.6,
+        "offset_x": -29,
+        "offset_y": 99,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600170/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600170/painting.png"
       }
@@ -8434,7 +8434,7 @@
       "codename": "MOT Járnbarðinn",
       "name_ja": "ヤーンバアデン",
       "launch_date": null,
-      "launch_reason": "進水日不明",
+      "launch_reason": "不明",
       "notes": "Hákon・Eiríkrの船として詩やサガに記録されるが、進水月日は確認できない。",
       "painting_display": {
         "scale": 1,
@@ -8449,11 +8449,11 @@
       "name_ja": "セリミエ",
       "launch_date": "1797-02-22",
       "launch_reason": "",
-      "notes": "トルコ海軍刊『Türk Denizcilik Tarihi』第2巻（2009年）p.23に1797年2月22日の進水式を記載。同頁が1829年の訪艦まで追跡する船体。",
+      "notes": "",
       "painting_display": {
-        "scale": 1,
-        "offset_x": 0,
-        "offset_y": 0,
+        "scale": 6.6,
+        "offset_x": 43,
+        "offset_y": 114,
         "custom_icon": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600190/icon.png",
         "custom_image": "https://raw.githubusercontent.com/Fernando2603/AzurLane/main/images/skin/9600190/painting.png"
       }
@@ -8462,8 +8462,8 @@
       "codename": "MOT Ormrinn Langi",
       "name_ja": "オーメン・ランゲ",
       "launch_date": null,
-      "launch_reason": "進水日不明",
-      "notes": "Olav Tryggvasonの船。999年建造とされるが進水月日は確認できない。現代の復元船の進水日とは区別。",
+      "launch_reason": "不明",
+      "notes": "Olav Tryggvasonの船。999年建造とされるが進水月日は確認できない。",
       "painting_display": {
         "scale": 1,
         "offset_x": 0,
@@ -8476,8 +8476,8 @@
       "codename": "MOT Riyala Bey",
       "name_ja": "リヤラ・ベイ",
       "launch_date": null,
-      "launch_reason": "進水日不明",
-      "notes": "1829年の海戦に登場する74門艦。Riyāla Beyは海軍の階級名でもあり、船体同定と進水月日は未確定。",
+      "launch_reason": "不明",
+      "notes": "船体同定と進水月日は未確定。",
       "painting_display": {
         "scale": 1,
         "offset_x": 0,
